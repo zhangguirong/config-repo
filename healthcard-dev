@@ -1,0 +1,11 @@
+#HIS配置
+healthcard:
+  url: http://${healthcard.host}:${healthcard.port}/internet/api/app/v1/ecard
+  tokenUrl: http://${healthcard.host}:${healthcard.port}/internet/api/app/v1/token
+  host: 221.237.182.251
+  port: 8585
+  appId: 0ea975d3823f49f488f8b9cd1228268a
+  secret: 9d4f3a2ce90b40b9accc32eac26cd48b
+  pubKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2aCHeiJytyvk4GpattgY2ZH+bh3YPN9U+icu76gqSI9cUQYB1Bazg4qlptlmPrM3NPgcJ+c/U4Qfx4W2caSXWg==
+  version: v1.10
+  digestType: SM2
