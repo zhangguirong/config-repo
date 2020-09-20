@@ -19,3 +19,5 @@ healthcard:
   pubKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2aCHeiJytyvk4GpattgY2ZH+bh3YPN9U+icu76gqSI9cUQYB1Bazg4qlptlmPrM3NPgcJ+c/U4Qfx4W2caSXWg==
   version: v1.10
   digestType: SM2
+env:
+  dev
