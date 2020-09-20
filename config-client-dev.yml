@@ -20,4 +20,4 @@ healthcard:
   version: v1.10
   digestType: SM2
 env:
-  dev
+  beat
